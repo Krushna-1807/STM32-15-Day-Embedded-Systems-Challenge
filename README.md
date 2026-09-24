@@ -1,4 +1,4 @@
-﻿# \# STM32 15-Day Embedded Systems Challenge
+﻿# STM32 15-Day Embedded Systems Challenge
 
 # 
 
