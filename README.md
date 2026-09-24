@@ -151,3 +151,31 @@ STM32-15-Day-Embedded-Systems-Challenge/
 ├── 📁 Day13_Flash_Memory/
 ├── 📁 Day14_SmartSense/
 └── 📁 Day15_FreeRTOS/
+🏆 Challenge Outcome
+
+✅ Completed a structured 15-day hands-on STM32 development challenge.
+
+Throughout the challenge, I worked with:
+
+Microcontroller peripherals
+Communication protocols
+Sensors
+Timers and interrupts
+Memory
+Watchdog systems
+DMA
+FreeRTOS
+Hardware debugging
+
+The repository contains the STM32CubeIDE project files and source code developed throughout the challenge.
+
+👨‍💻 About Me
+Krushna Mhaske
+
+🎓 MSc Electronic Science
+
+💻 Aspiring Embedded Systems & IoT Engineer
+
+Areas of Interest
+
+Embedded Systems • Firmware Development • STM32 • Embedded C • IoT • Automotive Embedded Systems
