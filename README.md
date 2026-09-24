@@ -151,6 +151,56 @@ STM32-15-Day-Embedded-Systems-Challenge/
 ├── 📁 Day13_Flash_Memory/
 ├── 📁 Day14_SmartSense/
 └── 📁 Day15_FreeRTOS/
+---
 
+---
 
-Embedded Systems • Firmware Development • STM32 • Embedded C • IoT • Automotive Embedded Systems
+## 🏆 Challenge Outcome
+
+### ✅ 15 Days • 15 Projects • Hands-on Learning
+
+Successfully completed a **15-day STM32 Embedded Systems Challenge**, focusing on practical implementation, debugging, and hardware experimentation.
+
+### 🔧 What I Worked With
+
+| Area | Hands-on Experience |
+|---|---|
+| 🧠 Microcontrollers | STM32F401RE / NUCLEO-F401RE |
+| 💻 Programming | Embedded C, STM32 HAL |
+| ⚙️ Peripherals | GPIO, Timers, PWM, ADC, RTC, Flash |
+| 📡 Communication | UART, I2C, SPI |
+| 🔄 Data Handling | UART DMA |
+| 🛡️ Reliability | Independent Watchdog (IWDG) |
+| 🌡️ Sensors | DHT11, LCD interfacing |
+| 🧵 RTOS | FreeRTOS Tasks & Scheduling |
+| 🐞 Debugging | ST-LINK, Tera Term, Hardware Debugging |
+
+This repository contains the **STM32CubeIDE project files, source code, and configurations** developed throughout the challenge.
+
+---
+
+## 👨‍💻 About Me
+
+### **Krushna Mhaske**
+
+🎓 **MSc Electronic Science**  
+💻 **Aspiring Embedded Systems & IoT Engineer**
+
+I am focused on developing practical skills in **embedded firmware, microcontrollers, communication protocols, and real-time systems** through hands-on projects.
+
+### 🚀 Areas of Interest
+
+`Embedded Systems`  
+`Firmware Development`  
+`STM32`  
+`Embedded C`  
+`IoT`  
+`Automotive Embedded Systems`
+
+---
+
+### 💡 Build. Test. Debug. Learn. Repeat.
+
+> *Turning embedded concepts into working hardware.*
+
+---
