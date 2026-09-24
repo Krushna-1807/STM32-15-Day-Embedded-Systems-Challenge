@@ -2,9 +2,7 @@
 
 > **15 Days • 15 Projects • Hands-on STM32 Embedded Development**
 
-A hands-on 15-day embedded systems challenge focused on developing practical skills with **STM32 microcontrollers, Embedded C, peripherals, communication protocols, sensors, debugging, and FreeRTOS**.
-
-Built using the **STM32 NUCLEO-F401RE** and **STM32CubeIDE**.
+A hands-on 15-day embedded systems challenge focused on practical **STM32, Embedded C, peripherals, communication protocols, sensors, debugging, and FreeRTOS**.
 
 ---
 
@@ -25,28 +23,26 @@ Built using the **STM32 NUCLEO-F401RE** and **STM32CubeIDE**.
 ## 📅 15-Day Development Journey
 
 | Day | Project | Main Topics |
-|:---:|---|---|
-| **01** | 🔲 GPIO | GPIO, LED & Button |
-| **02** | ⚡ EXTI Interrupt | External Interrupts, NVIC |
-| **03** | ⏱️ Timer Interrupt | TIM2, Timer Interrupt |
-| **04** | 📡 UART | UART Communication |
-| **05** | 💡 UART LED | UART Commands, LED Control |
-| **06** | 📊 PWM | TIM1 PWM, LED Brightness |
-| **07** | 📈 ADC | Analog-to-Digital Conversion |
-| **08** | 🖥️ I2C LCD | I2C Communication, LCD |
-| **09** | 🌡️ DHT11 | Temperature & Humidity |
-| **10** | 🕒 RTC | Real-Time Clock, Time-Stamped Data |
-| **11** | 🔄 SPI | SPI Communication |
-| **12** | 🛡️ IWDG / DMA | Watchdog, UART DMA, CAN Concepts |
-| **13** | 💾 Flash Memory | Internal Flash Memory |
-| **14** | 🌱 SmartSense | Sensor Monitoring, LCD, Buzzer |
-| **15** | 🧵 FreeRTOS | Tasks, Scheduling, RTOS |
+|---|---|---|
+| 01 | 🔲 GPIO | GPIO, LED & Button |
+| 02 | ⚡ EXTI Interrupt | External Interrupts, NVIC |
+| 03 | ⏱️ Timer Interrupt | TIM2, Timer Interrupt |
+| 04 | 📡 UART | UART Communication |
+| 05 | 💡 UART LED | UART Commands, LED Control |
+| 06 | 📊 PWM | TIM1 PWM, LED Brightness |
+| 07 | 📈 ADC | Analog-to-Digital Conversion |
+| 08 | 🖥️ I2C LCD | I2C Communication, LCD |
+| 09 | 🌡️ DHT11 | Temperature & Humidity |
+| 10 | 🕒 RTC | Real-Time Clock, Time-Stamped Data |
+| 11 | 🔄 SPI | SPI Communication |
+| 12 | 🛡️ IWDG / DMA | Watchdog, UART DMA, CAN Concepts |
+| 13 | 💾 Flash Memory | Internal Flash Memory |
+| 14 | 🌱 SmartSense | Sensor Monitoring, LCD, Buzzer |
+| 15 | 🧵 FreeRTOS | Tasks, Scheduling, RTOS |
 
 ---
 
 ## 🔌 Communication & Interfaces
-
-Hands-on implementation and experimentation with:
 
 `UART` • `I2C` • `SPI` • `DMA` • `EXTI` • `CAN Concepts`
 
@@ -54,23 +50,24 @@ Hands-on implementation and experimentation with:
 
 ## ⚙️ Embedded Concepts
 
-- Embedded C programming
+- Embedded C
 - STM32 HAL
-- STM32CubeMX peripheral configuration
-- GPIO configuration
-- External interrupts and NVIC
-- Hardware timers
-- PWM generation
+- STM32CubeMX
+- STM32CubeIDE
+- GPIO
+- External Interrupts and NVIC
+- Timers
+- PWM
 - ADC
 - RTC
 - Internal Flash Memory
-- Independent Watchdog (IWDG)
-- UART with DMA
-- Sensor interfacing
-- LCD interfacing
-- FreeRTOS tasks
-- Hardware debugging
-- Firmware troubleshooting
+- Independent Watchdog
+- UART DMA
+- Sensor Interfacing
+- LCD Interfacing
+- FreeRTOS Tasks
+- Hardware Debugging
+- Firmware Troubleshooting
 
 ---
 
@@ -78,80 +75,47 @@ Hands-on implementation and experimentation with:
 
 ### 💻 Embedded Programming
 
-- Embedded C
-- STM32 HAL
-- STM32CubeMX
-- STM32CubeIDE
-- Microcontroller programming
-- Peripheral configuration
-- Firmware debugging
+**Embedded C** • **STM32 HAL** • **STM32CubeMX** • **STM32CubeIDE**
 
 ### 🔧 STM32 Peripherals
 
-- GPIO
-- EXTI
-- NVIC
-- Timers
-- PWM
-- ADC
-- RTC
-- Internal Flash
-- IWDG
+**GPIO** • **EXTI** • **NVIC** • **Timers** • **PWM** • **ADC** • **RTC** • **Flash** • **IWDG**
 
 ### 📡 Communication
 
-- UART
-- UART DMA
-- I2C
-- SPI
-- CAN concepts
+**UART** • **UART DMA** • **I2C** • **SPI** • **CAN Concepts**
 
 ### 🌡️ Sensors & Hardware
 
-- DHT11 temperature & humidity sensor
-- I2C LCD
-- LED and button interfacing
-- Buzzer
-- Sensor data monitoring
+**DHT11** • **I2C LCD** • **LED** • **Buttons** • **Buzzer** • **Sensor Monitoring**
 
 ### 🧵 RTOS
 
-- FreeRTOS
-- Task creation
-- Task scheduling
-- Task-based embedded system design
+**FreeRTOS** • **Tasks** • **Task Scheduling** • **RTOS Concepts**
 
 ### 🐞 Development & Debugging
 
-- STM32 hardware testing
-- Serial communication debugging
-- Tera Term
-- ST-LINK debugging
-- Hardware and firmware troubleshooting
+**ST-LINK** • **Tera Term** • **Hardware Testing** • **Firmware Debugging**
 
 ---
 
 ## 📂 Repository Structure
 
-```text
-STM32-15-Day-Embedded-Systems-Challenge/
-│
-├── 📁 Day01_GPIO/
-├── 📁 Day02_EXTI_Interrupt/
-├── 📁 Day03_Timer_Interrupt/
-├── 📁 Day04_UART/
-├── 📁 Day05_UART_LED/
-├── 📁 Day06_PWM/
-├── 📁 Day07_ADC/
-├── 📁 Day08_I2C_LCD/
-├── 📁 Day09_DHT11/
-├── 📁 Day10_RTC/
-├── 📁 Day11_SPI/
-├── 📁 Day12_IWDG_UART_DMA/
-├── 📁 Day13_Flash_Memory/
-├── 📁 Day14_SmartSense/
-└── 📁 Day15_FreeRTOS/
----
+📁 **Day01_GPIO**  
+📁 **Day02_EXTI_Interrupt**  
+📁 **Day03_Timer_Interrupt**  
+📁 **Day04_UART**  
+📁 **Day05_UART_LED**  
+📁 **Day06_PWM**  
+📁 **Day07_ADC**  
+📁 **Day08_I2C_LCD**  
+📁 **Day09_DHT11**  
+📁 **Day10_RTC**  
+📁 **Day11_SPI**  
+📁 **Day12_IWDG_UART_DMA**  
+📁 **Day13_Flash_Memory**  
+📁 **Day14_SmartSense**  
+📁 **Day15_FreeRTOS**
 
 ---
 
@@ -159,7 +123,7 @@ STM32-15-Day-Embedded-Systems-Challenge/
 
 ### ✅ 15 Days • 15 Projects • Hands-on Learning
 
-Successfully completed a **15-day STM32 Embedded Systems Challenge**, focusing on practical implementation, debugging, and hardware experimentation.
+Successfully completed a **15-day STM32 Embedded Systems Challenge** focused on practical implementation, debugging, and hardware experimentation.
 
 ### 🔧 What I Worked With
 
@@ -170,12 +134,12 @@ Successfully completed a **15-day STM32 Embedded Systems Challenge**, focusing o
 | ⚙️ Peripherals | GPIO, Timers, PWM, ADC, RTC, Flash |
 | 📡 Communication | UART, I2C, SPI |
 | 🔄 Data Handling | UART DMA |
-| 🛡️ Reliability | Independent Watchdog (IWDG) |
-| 🌡️ Sensors | DHT11, LCD interfacing |
+| 🛡️ Reliability | Independent Watchdog |
+| 🌡️ Sensors | DHT11, LCD |
 | 🧵 RTOS | FreeRTOS Tasks & Scheduling |
-| 🐞 Debugging | ST-LINK, Tera Term, Hardware Debugging |
+| 🐞 Debugging | ST-LINK, Tera Term |
 
-This repository contains the **STM32CubeIDE project files, source code, and configurations** developed throughout the challenge.
+The repository contains the **STM32CubeIDE project files and source code** developed throughout the challenge.
 
 ---
 
@@ -183,24 +147,20 @@ This repository contains the **STM32CubeIDE project files, source code, and conf
 
 ### **Krushna Mhaske**
 
-🎓 **MSc Electronic Science**  
-💻 **Aspiring Embedded Systems & IoT Engineer**
+🎓 **MSc Electronic Science**
 
-I am focused on developing practical skills in **embedded firmware, microcontrollers, communication protocols, and real-time systems** through hands-on projects.
+💻 **Aspiring Embedded Systems & IoT Engineer**
 
 ### 🚀 Areas of Interest
 
-`Embedded Systems`  
-`Firmware Development`  
-`STM32`  
-`Embedded C`  
-`IoT`  
-`Automotive Embedded Systems`
+**Embedded Systems** • **Firmware Development** • **STM32** • **Embedded C** • **IoT** • **Automotive Embedded Systems**
 
 ---
 
-### 💡 Build. Test. Debug. Learn. Repeat.
+### 💡 Build • Test • Debug • Learn
 
-> *Turning embedded concepts into working hardware.*
+> Turning embedded concepts into working hardware.
 
 ---
+
+⭐ **Thanks for visiting this repository!**
