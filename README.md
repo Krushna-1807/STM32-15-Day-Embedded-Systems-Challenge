@@ -147,12 +147,7 @@ STM32-15-Day-Embedded-Systems-Challenge/
 ├── 📁 Day09_DHT11/
 ├── 📁 Day10_RTC/
 ├── 📁 Day11_SPI/
-│
 ├── 📁 Day12_IWDG_UART_DMA/
-│   ├── 📁 Day12_CAN/
-│   ├── 📁 Day12_DMA/
-│   └── 📁 Day12_IWDG/
-│
 ├── 📁 Day13_Flash_Memory/
 ├── 📁 Day14_SmartSense/
 └── 📁 Day15_FreeRTOS/
