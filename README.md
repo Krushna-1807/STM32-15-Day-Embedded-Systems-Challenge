@@ -153,29 +153,57 @@ STM32-15-Day-Embedded-Systems-Challenge/
 └── 📁 Day15_FreeRTOS/
 🏆 Challenge Outcome
 
-✅ Completed a structured 15-day hands-on STM32 development challenge.
+---
 
-Throughout the challenge, I worked with:
+## 🏆 Challenge Outcome
 
-Microcontroller peripherals
-Communication protocols
-Sensors
-Timers and interrupts
-Memory
-Watchdog systems
-DMA
-FreeRTOS
-Hardware debugging
+### ✅ 15 Days • 15 Projects • Hands-on Learning
 
-The repository contains the STM32CubeIDE project files and source code developed throughout the challenge.
+Successfully completed a **15-day STM32 Embedded Systems Challenge**, focusing on practical implementation, debugging, and hardware experimentation.
 
-👨‍💻 About Me
-Krushna Mhaske
+### 🔧 What I Worked With
 
-🎓 MSc Electronic Science
+| Area | Hands-on Experience |
+|---|---|
+| 🧠 Microcontrollers | STM32F401RE / NUCLEO-F401RE |
+| 💻 Programming | Embedded C, STM32 HAL |
+| ⚙️ Peripherals | GPIO, Timers, PWM, ADC, RTC, Flash |
+| 📡 Communication | UART, I2C, SPI |
+| 🔄 Data Handling | UART DMA |
+| 🛡️ Reliability | Independent Watchdog (IWDG) |
+| 🌡️ Sensors | DHT11, LCD interfacing |
+| 🧵 RTOS | FreeRTOS Tasks & Scheduling |
+| 🐞 Debugging | ST-LINK, Tera Term, Hardware Debugging |
 
-💻 Aspiring Embedded Systems & IoT Engineer
+This repository contains the **STM32CubeIDE project files, source code, and configurations** developed throughout the challenge.
 
+---
+
+## 👨‍💻 About Me
+
+### **Krushna Mhaske**
+
+🎓 **MSc Electronic Science**  
+💻 **Aspiring Embedded Systems & IoT Engineer**
+
+I am focused on developing practical skills in **embedded firmware, microcontrollers, communication protocols, and real-time systems** through hands-on projects.
+
+### 🚀 Areas of Interest
+
+`Embedded Systems`  
+`Firmware Development`  
+`STM32`  
+`Embedded C`  
+`IoT`  
+`Automotive Embedded Systems`
+
+---
+
+### 💡 Build. Test. Debug. Learn. Repeat.
+
+> *Turning embedded concepts into working hardware.*
+
+---
 Areas of Interest
 
 Embedded Systems • Firmware Development • STM32 • Embedded C • IoT • Automotive Embedded Systems
